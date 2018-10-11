@@ -9,12 +9,15 @@ var data = data || {};
     'brown',
     'auburn',
     'blonde',
+    'strawberry blonde',
     'red',
+    'auburn',
     'jet black',
     'dark brown',
     'light brown',
     'white',
     'grey',
+    'silver',
   ];
 
   module.hairStyles = [
@@ -29,6 +32,7 @@ var data = data || {};
     'ponytail',
     'topknot',
     'waist-length',
+    'high and tight',
   ];
 
   module.eyeColors = [
@@ -39,6 +43,7 @@ var data = data || {};
     'green',
     'emerald',
     'silver',
+    'heterochromia',
   ];
 
   module.faceShapes = [
